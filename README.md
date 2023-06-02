@@ -1,4 +1,4 @@
-# 6-SENSE AGENCY HOUSE PRICE PREDICTION MODEL  
+# 6th-SENSE AGENCY HOUSE PRICE PREDICTION MODEL  
 ![house_image](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/house_image.jpg)
 
 ## Objective
